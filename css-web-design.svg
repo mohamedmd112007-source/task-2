@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" fill="#f4f7fb"/>
+<text x="450" y="55" text-anchor="middle" font-size="34" font-family="Arial" fill="#18243a">HTML + CSS = Web Page</text>
+<rect x="90" y="115" width="300" height="220" rx="18" fill="#fff" stroke="#e87932" stroke-width="5"/>
+<text x="240" y="165" text-anchor="middle" font-size="42" font-family="Arial" font-weight="bold" fill="#d85d1f">HTML</text>
+<text x="240" y="215" text-anchor="middle" font-size="23" font-family="Arial" fill="#24334d">Structure</text>
+<text x="240" y="255" text-anchor="middle" font-size="20" font-family="Arial" fill="#24334d">Headings • Text • Images</text>
+<text x="240" y="290" text-anchor="middle" font-size="20" font-family="Arial" fill="#24334d">Links • Tables</text>
+<text x="450" y="245" text-anchor="middle" font-size="52" font-family="Arial" fill="#34445e">+</text>
+<rect x="510" y="115" width="300" height="220" rx="18" fill="#fff" stroke="#2878c7" stroke-width="5"/>
+<text x="660" y="165" text-anchor="middle" font-size="42" font-family="Arial" font-weight="bold" fill="#2168ad">CSS</text>
+<text x="660" y="215" text-anchor="middle" font-size="23" font-family="Arial" fill="#24334d">Appearance</text>
+<text x="660" y="255" text-anchor="middle" font-size="20" font-family="Arial" fill="#24334d">Colors • Fonts • Spacing</text>
+<text x="660" y="290" text-anchor="middle" font-size="20" font-family="Arial" fill="#24334d">Layout • Responsive design</text>
+</svg>
